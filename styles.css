@@ -76,7 +76,7 @@ html, body {
 /* Main Header */
 .glow-text {
   font-size: clamp(2.8rem, 6vw, 5rem);
-  color: #FFDB58; /* Mustard yellow */
+  color: #FFA000; /* Mustard yellow */
   text-shadow: 
     -1px -1px 0 red,  
      1px -1px 0 red,  
@@ -91,7 +91,7 @@ html, body {
 .subtext {
   font-size: clamp(2.5rem, 2.5vw, 2rem);
   margin-top: 1rem;
-  color: #FFDB58;
+  color: #FFA000;
   text-shadow: 
     -0.7px -0.7px 0 red,  
      0.7px -0.7px 0 red,  
@@ -133,4 +133,5 @@ html, body {
     padding: 0.75rem 1.5rem;
   }
 }
+
 
